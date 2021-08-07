@@ -1,0 +1,19 @@
+C:\Users\Danny sosa\Desktop\Colas\Colas\bin\Debug\Colas.exe.config
+C:\Users\Danny sosa\Desktop\Colas\Colas\bin\Debug\Colas.exe
+C:\Users\Danny sosa\Desktop\Colas\Colas\bin\Debug\Colas.pdb
+C:\Users\Danny sosa\Desktop\Colas\Colas\obj\Debug\Colas.csprojAssemblyReference.cache
+C:\Users\Danny sosa\Desktop\Colas\Colas\obj\Debug\Colas.Form1.resources
+C:\Users\Danny sosa\Desktop\Colas\Colas\obj\Debug\Colas.Properties.Resources.resources
+C:\Users\Danny sosa\Desktop\Colas\Colas\obj\Debug\Colas.csproj.GenerateResource.cache
+C:\Users\Danny sosa\Desktop\Colas\Colas\obj\Debug\Colas.exe
+C:\Users\Danny sosa\Desktop\Colas\Colas\obj\Debug\Colas.pdb
+A:\dd\Control de Colas\Colas\bin\Debug\Colas.exe.config
+A:\dd\Control de Colas\Colas\bin\Debug\Colas.exe
+A:\dd\Control de Colas\Colas\bin\Debug\Colas.pdb
+A:\dd\Control de Colas\Colas\obj\Debug\Colas.csproj.AssemblyReference.cache
+A:\dd\Control de Colas\Colas\obj\Debug\Colas.Form1.resources
+A:\dd\Control de Colas\Colas\obj\Debug\Colas.Properties.Resources.resources
+A:\dd\Control de Colas\Colas\obj\Debug\Colas.csproj.GenerateResource.cache
+A:\dd\Control de Colas\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
+A:\dd\Control de Colas\Colas\obj\Debug\Colas.exe
+A:\dd\Control de Colas\Colas\obj\Debug\Colas.pdb
